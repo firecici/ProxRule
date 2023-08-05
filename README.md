@@ -3,7 +3,9 @@ https://raw.githubusercontent.com/firecici/ProxRule/master/Shadowrocket.conf
 
 
 https://raw.githubusercontent.com/firecici/ProxRule/master/gfwlist.txt
+
 https://tool.oschina.net/encrypt?type=3
+
 gfwlist.txt是一个文本文件，用于存储被防火长城（GFW）屏蔽的网站的列表。它的语法是基于Adblock Plus的过滤规则，可以用于配置代理软件，如SwitchyOmega。12
 
 gfwlist.txt的格式如下：
