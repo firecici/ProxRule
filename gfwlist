@@ -21,6 +21,9 @@
 .discord.com
 .callannie.com
 .openai.com
+||*.chatgpt.com
+||chatgpt.com
+||*.openai.com
 
 
 !---------403/451/503/520 & URL Redirects---------
