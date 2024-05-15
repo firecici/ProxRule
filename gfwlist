@@ -16,14 +16,12 @@
 ! https://github.com/gfwlist/gfwlist/issues/.
 
 !#####yj add####
-.bingapis.com
-.bing.com
-.discord.com
-.callannie.com
-.openai.com
-||*.chatgpt.com
+||bingapis.com
+||bing.com
+||callannie.com
+||openai.com
 ||chatgpt.com
-||*.openai.com
+||google.com
 
 
 !---------403/451/503/520 & URL Redirects---------
